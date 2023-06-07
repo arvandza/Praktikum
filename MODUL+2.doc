@@ -1,0 +1,640 @@
+Date: Tue, 6 Jun 2023 14:01:48 +0000 (UTC)
+Message-ID: <1219465315.85.1686060108793@db415c26caf0>
+Subject: Exported From Confluence
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_84_453879961.1686060108793"
+
+------=_Part_84_453879961.1686060108793
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/exported.html
+
+<html xmlns:o=3D'urn:schemas-microsoft-com:office:office'
+      xmlns:w=3D'urn:schemas-microsoft-com:office:word'
+      xmlns:v=3D'urn:schemas-microsoft-com:vml'
+      xmlns=3D'urn:w3-org-ns:HTML'>
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+    <title>MODUL 2</title>
+    <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:TargetScreenSize>1024x640</o:TargetScreenSize>
+            <o:PixelsPerInch>72</o:PixelsPerInch>
+            <o:AllowPNG/>
+        </o:OfficeDocumentSettings>
+        <w:WordDocument>
+            <w:View>Print</w:View>
+            <w:Zoom>90</w:Zoom>
+            <w:DoNotOptimizeForBrowser/>
+        </w:WordDocument>
+    </xml>
+    <![endif]-->
+    <style>
+                <!--
+        @page Section1 {
+            size: 8.5in 11.0in;
+            margin: 1.0in;
+            mso-header-margin: .5in;
+            mso-footer-margin: .5in;
+            mso-paper-source: 0;
+        }
+
+        table {
+            border: solid 1px;
+            border-collapse: collapse;
+        }
+
+        table td, table th {
+            border: solid 1px;
+            padding: 5px;
+        }
+
+        td {
+            page-break-inside: avoid;
+        }
+
+        tr {
+            page-break-after: avoid;
+        }
+
+        div.Section1 {
+            page: Section1;
+        }
+
+        /* Confluence print stylesheet. Common to all themes for print medi=
+a */
+/* Full of !important until we improve batching for print CSS */
+
+@media print {
+    #main {
+        padding-bottom: 1em !important; /* The default padding of 6em is to=
+o much for printouts */
+    }
+
+    body {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        font-size: 10pt;
+        line-height: 1.2;
+    }
+
+    body, #full-height-container, #main, #page, #content, .has-personal-sid=
+ebar #content {
+        background: var(--ds-surface, #fff) !important;
+        color: var(--ds-text, #000) !important;
+        border: 0 !important;
+        width: 100% !important;
+        height: auto !important;
+        min-height: auto !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        display: block !important;
+    }
+
+    a, a:link, a:visited, a:focus, a:hover, a:active {
+        color: var(--ds-text, #000);
+    }
+
+    #content h1,
+    #content h2,
+    #content h3,
+    #content h4,
+    #content h5,
+    #content h6 {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        page-break-after: avoid;
+    }
+
+    pre {
+        font-family: Monaco, "Courier New", monospace;
+    }
+
+    #header,
+    .aui-header-inner,
+    #navigation,
+    #sidebar,
+    .sidebar,
+    #personal-info-sidebar,
+    .ia-fixed-sidebar,
+    .page-actions,
+    .navmenu,
+    .ajs-menu-bar,
+    .noprint,
+    .inline-control-link,
+    .inline-control-link a,
+    a.show-labels-editor,
+    .global-comment-actions,
+    .comment-actions,
+    .quick-comment-container,
+    #addcomment {
+        display: none !important;
+    }
+
+    /* CONF-28544 cannot print multiple pages in IE */
+    #splitter-content {
+        position: relative !important;
+    }
+
+    .comment .date::before {
+        content: none !important; /* remove middot for print view */
+    }
+
+    h1.pagetitle img {
+        height: auto;
+        width: auto;
+    }
+
+    .print-only {
+        display: block;
+    }
+
+    #footer {
+        position: relative !important; /* CONF-17506 Place the footer at en=
+d of the content */
+        margin: 0;
+        padding: 0;
+        background: none;
+        clear: both;
+    }
+
+    #poweredby {
+        border-top: none;
+        background: none;
+    }
+
+    #poweredby li.print-only {
+        display: list-item;
+        font-style: italic;
+    }
+
+    #poweredby li.noprint {
+        display: none;
+    }
+
+    /* no width controls in print */
+    .wiki-content .table-wrap,
+    .wiki-content p,
+    .panel .codeContent,
+    .panel .codeContent pre,
+    .image-wrap {
+        overflow: visible !important;
+    }
+
+    /* TODO - should this work? */
+    #children-section,
+    #comments-section .comment,
+    #comments-section .comment .comment-body,
+    #comments-section .comment .comment-content,
+    #comments-section .comment p {
+        page-break-inside: avoid;
+    }
+
+    #page-children a {
+        text-decoration: none;
+    }
+
+    /**
+     hide twixies
+
+     the specificity here is a hack because print styles
+     are getting loaded before the base styles. */
+    #comments-section.pageSection .section-header,
+    #comments-section.pageSection .section-title,
+    #children-section.pageSection .section-header,
+    #children-section.pageSection .section-title,
+    .children-show-hide {
+        padding-left: 0;
+        margin-left: 0;
+    }
+
+    .children-show-hide.icon {
+        display: none;
+    }
+
+    /* personal sidebar */
+    .has-personal-sidebar #content {
+        margin-right: 0px;
+    }
+
+    .has-personal-sidebar #content .pageSection {
+        margin-right: 0px;
+    }
+
+    .no-print, .no-print * {
+        display: none !important;
+    }
+}
+-->
+    </style>
+</head>
+<body>
+    <h1>MODUL 2</h1>
+    <div class=3D"Section1">
+        <p></p>
+<div class=3D"table-wrap">
+<table data-layout=3D"default" data-local-id=3D"c95332f6-905c-4f1d-8640-8ca=
+d49d2bd56" class=3D"confluenceTable">
+<colgroup>
+<col style=3D"width: 191.0px;">
+<col style=3D"width: 48.0px;">
+<col style=3D"width: 436.0px;">
+</colgroup>
+<tbody>
+<tr>
+<td colspan=3D"3" class=3D"confluenceTd"><p style=3D"text-align: center;"><=
+strong>PROJECT CHARTER</strong></p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p><strong>Judul Proyek&nbsp;</strong></p></td>
+<td class=3D"confluenceTd"><p style=3D"text-align: center;">:</p></td>
+<td class=3D"confluenceTd"><p>EasySplit</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p><strong>Tanggal Mulai Proyek&nbsp;</strong></=
+p></td>
+<td class=3D"confluenceTd"><p style=3D"text-align: center;">:</p></td>
+<td class=3D"confluenceTd"><p>07 Maret 2023</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p><strong>Tanggal Akhir Proyek&nbsp;</strong></=
+p></td>
+<td class=3D"confluenceTd"><p style=3D"text-align: center;">:</p></td>
+<td class=3D"confluenceTd"><p>07 Juni 2023</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p><strong>Informasi Anggaran&nbsp;</strong></p>=
+</td>
+<td class=3D"confluenceTd"><p style=3D"text-align: center;">:</p></td>
+<td class=3D"confluenceTd"><p>Rp 163.000.000</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p><strong>Manajer Proyek</strong></p></td>
+<td class=3D"confluenceTd"><p style=3D"text-align: center;">:</p></td>
+<td class=3D"confluenceTd"><p>Alan Hokgie Wijaya</p></td>
+</tr>
+<tr>
+<td colspan=3D"3" class=3D"confluenceTd"><p><strong>Tujuan Proyek :&nbsp;</=
+strong></p><p>Pembuatan fitur <em>EasySplit</em> pada aplikasi <em>EasyBill=
+s </em>untuk perusahaan PT. Growth Financial Group yang bertujuan untuk mem=
+udahkan membagi tagihan secara efisien. Fitur <em>EasySplit </em>ini akan m=
+encakup aktifitas yang bisa digunakan oleh user antara lain : Scan barcode =
+ketika memakai fitur <em>EasySplit </em>untuk melakukan pembayaran kepada u=
+ser lain dengan <em>EasyPay </em>(Fitur pembayaran dalam aplikasi <em>EasyB=
+ills</em>), dan juga nantinya bisa untuk menambahkan list tagihan pada fitu=
+r <em>EasySplit.</em></p></td>
+</tr>
+<tr>
+<td colspan=3D"3" class=3D"confluenceTd"><p>Dengan tujuan untuk mengembangk=
+an aplikasi <em>EasyBills</em>, kami menciptakan fitur <em>EasySplit </em>.=
+ Proyek akan dimulai pada 07 Maret 2023</p><p>hingga 07 Juni 2023 dengan an=
+ggaran sebesar Rp 163.000.000 (Seratus Enam Puluh Tiga Juta Rupiah).</p><p>=
+</p><p></p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Manager&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbs=
+p; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &n=
+bsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; =
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp=
+; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Owner</p><=
+p></p><p></p><p></p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Alan Hokgie Wija=
+ya&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nb=
+sp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &=
+nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;=
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Muhammad Putra</p><p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<p></p>
+<div class=3D"table-wrap">
+<table data-layout=3D"default" data-local-id=3D"67f2b972-3f24-4e2b-b47a-cc7=
+ae2c63535" class=3D"confluenceTable">
+<colgroup>
+<col style=3D"width: 151.0px;">
+<col style=3D"width: 133.0px;">
+<col style=3D"width: 133.0px;">
+<col style=3D"width: 159.0px;">
+<col style=3D"width: 179.0px;">
+</colgroup>
+<tbody>
+<tr>
+<td colspan=3D"5" class=3D"confluenceTd"><p><strong>Estimasi Bottom-Up</str=
+ong></p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p><strong>Job Desk/Work Breakdown Structure</st=
+rong></p></td>
+<td class=3D"confluenceTd"><p><strong>Duration (Day)</strong></p></td>
+<td class=3D"confluenceTd"><p><strong>Resource (Pax)</strong></p></td>
+<td class=3D"confluenceTd"><p><strong>Costs&nbsp;</strong></p></td>
+<td class=3D"confluenceTd"><p><strong>Costs Cost Rate per</strong></p><p><s=
+trong>man-day</strong></p></td>
+</tr>
+<tr>
+<td colspan=3D"5" class=3D"confluenceTd"><p><strong>Initiation :</strong></=
+p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">
+<ul>
+<li><p>Menentukan SDM proyek</p></li>
+</ul></td>
+<td class=3D"confluenceTd"><p style=3D"text-align: center;">1</p></td>
+<td class=3D"confluenceTd"><p style=3D"text-align: center;">1</p></td>
+<td class=3D"confluenceTd"><p>Rp300.000</p></td>
+<td class=3D"confluenceTd"><p>Rp300.000</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">
+<ul>
+<li><p>Menyusun Business Case</p></li>
+</ul></td>
+<td class=3D"confluenceTd"><p style=3D"text-align: center;">1</p></td>
+<td class=3D"confluenceTd"><p style=3D"text-align: center;">1</p></td>
+<td class=3D"confluenceTd"><p>Rp300.000</p></td>
+<td class=3D"confluenceTd"><p>Rp300.000</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">
+<ul>
+<li><p>Menyusun Project Charter</p></li>
+</ul></td>
+<td class=3D"confluenceTd"><p style=3D"text-align: center;">1</p></td>
+<td class=3D"confluenceTd"><p style=3D"text-align: center;">2</p></td>
+<td class=3D"confluenceTd"><p>Rp800.000</p></td>
+<td class=3D"confluenceTd"><p>Rp400.000</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">
+<ul>
+<li><p>Monitoring &amp; Controlling (Evaluasi)</p></li>
+</ul></td>
+<td class=3D"confluenceTd"><p style=3D"text-align: center;">3</p></td>
+<td class=3D"confluenceTd"><p style=3D"text-align: center;">1</p></td>
+<td class=3D"confluenceTd"><p>Rp1.500.000</p></td>
+<td class=3D"confluenceTd"><p>Rp500.000</p></td>
+</tr>
+<tr>
+<td colspan=3D"5" class=3D"confluenceTd"><p><strong>Planning :</strong></p>=
+</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">
+<ul>
+<li><p>Menentukan metode SDLC</p></li>
+</ul></td>
+<td class=3D"confluenceTd"><p style=3D"text-align: center;">1</p></td>
+<td class=3D"confluenceTd"><p style=3D"text-align: center;">3</p></td>
+<td class=3D"confluenceTd"><p>Rp900.000</p></td>
+<td class=3D"confluenceTd"><p>Rp300.000</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">
+<ul>
+<li><p>Menyusun Work Breakdown Structure</p></li>
+</ul></td>
+<td class=3D"confluenceTd"><p style=3D"text-align: center;">1</p></td>
+<td class=3D"confluenceTd"><p style=3D"text-align: center;">3</p></td>
+<td class=3D"confluenceTd"><p>Rp1.200.000</p></td>
+<td class=3D"confluenceTd"><p>Rp400.000</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">
+<ul>
+<li><p>Menyusun estimasi proyek</p></li>
+</ul></td>
+<td class=3D"confluenceTd"><p style=3D"text-align: center;">2</p></td>
+<td class=3D"confluenceTd"><p style=3D"text-align: center;">4</p></td>
+<td class=3D"confluenceTd"><p>Rp3.200.000</p></td>
+<td class=3D"confluenceTd"><p>Rp400.000</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">
+<ul>
+<li><p>Monitoring &amp; Controlling (Evaluasi)</p></li>
+</ul></td>
+<td class=3D"confluenceTd"><p style=3D"text-align: center;">4</p></td>
+<td class=3D"confluenceTd"><p style=3D"text-align: center;">1</p></td>
+<td class=3D"confluenceTd"><p>Rp2.000.000</p></td>
+<td class=3D"confluenceTd"><p>Rp500.000</p></td>
+</tr>
+<tr>
+<td colspan=3D"5" class=3D"confluenceTd"><p><strong>Execution :</strong></p=
+></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">
+<ul>
+<li><p>Analisis Kebutuhan</p></li>
+</ul></td>
+<td class=3D"confluenceTd"><p style=3D"text-align: center;">1</p></td>
+<td class=3D"confluenceTd"><p style=3D"text-align: center;">1</p></td>
+<td class=3D"confluenceTd"><p>Rp300.000</p></td>
+<td class=3D"confluenceTd"><p>Rp300.000</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">
+<ul>
+<li><p>Observasi Kebutuhan</p></li>
+</ul></td>
+<td class=3D"confluenceTd"><p style=3D"text-align: center;">1</p></td>
+<td class=3D"confluenceTd"><p style=3D"text-align: center;">1</p></td>
+<td class=3D"confluenceTd"><p>Rp400.000</p></td>
+<td class=3D"confluenceTd"><p>Rp400.000</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">
+<ul>
+<li><p>Menyusun SKPL</p></li>
+</ul></td>
+<td class=3D"confluenceTd"><p style=3D"text-align: center;">1</p></td>
+<td class=3D"confluenceTd"><p style=3D"text-align: center;">1</p></td>
+<td class=3D"confluenceTd"><p>Rp300.000</p></td>
+<td class=3D"confluenceTd"><p>Rp300.000</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">
+<ul>
+<li><p>Design UI/UX</p></li>
+</ul></td>
+<td class=3D"confluenceTd"><p style=3D"text-align: center;">4</p></td>
+<td class=3D"confluenceTd"><p style=3D"text-align: center;">1</p></td>
+<td class=3D"confluenceTd"><p>Rp2.800.000</p></td>
+<td class=3D"confluenceTd"><p>Rp700.000</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">
+<ul>
+<li><p>Programming (Back End &amp; Front End)</p></li>
+</ul></td>
+<td class=3D"confluenceTd"><p style=3D"text-align: center;">35</p></td>
+<td class=3D"confluenceTd"><p style=3D"text-align: center;">2</p></td>
+<td class=3D"confluenceTd"><p>Rp81.500.000</p></td>
+<td class=3D"confluenceTd"><p>Rp1.165.000</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">
+<ul>
+<li><p>Dokumentasi Program (Back End &amp; Front End)&nbsp;</p></li>
+</ul></td>
+<td class=3D"confluenceTd"><p style=3D"text-align: center;">2</p></td>
+<td class=3D"confluenceTd"><p style=3D"text-align: center;">1</p></td>
+<td class=3D"confluenceTd"><p>Rp1.000.000</p></td>
+<td class=3D"confluenceTd"><p>Rp500.000</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">
+<ul>
+<li><p>Melakukan test terhadap program</p></li>
+</ul></td>
+<td class=3D"confluenceTd"><p style=3D"text-align: center;">2</p></td>
+<td class=3D"confluenceTd"><p style=3D"text-align: center;">2</p></td>
+<td class=3D"confluenceTd"><p>Rp1.600.000</p></td>
+<td class=3D"confluenceTd"><p>Rp400.000</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">
+<ul>
+<li><p>Memberikan catatan list perbaikan</p></li>
+</ul></td>
+<td class=3D"confluenceTd"><p style=3D"text-align: center;">1</p></td>
+<td class=3D"confluenceTd"><p style=3D"text-align: center;">1</p></td>
+<td class=3D"confluenceTd"><p>Rp300.000</p></td>
+<td class=3D"confluenceTd"><p>Rp300.000</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">
+<ul>
+<li><p>Dokumentasi Testing Program</p></li>
+</ul></td>
+<td class=3D"confluenceTd"><p style=3D"text-align: center;">1</p></td>
+<td class=3D"confluenceTd"><p style=3D"text-align: center;">1</p></td>
+<td class=3D"confluenceTd"><p>Rp400.000</p></td>
+<td class=3D"confluenceTd"><p>Rp400.000</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">
+<ul>
+<li><p>Monitoring &amp; Controlling (Evaluasi)</p></li>
+</ul></td>
+<td class=3D"confluenceTd"><p style=3D"text-align: center;">52</p></td>
+<td class=3D"confluenceTd"><p style=3D"text-align: center;">1</p></td>
+<td class=3D"confluenceTd"><p>Rp26.000.000</p></td>
+<td class=3D"confluenceTd"><p>Rp500.000</p></td>
+</tr>
+<tr>
+<td colspan=3D"5" class=3D"confluenceTd"><p><strong>Closing&nbsp; :</strong=
+></p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">
+<ul>
+<li><p>Build and Release</p></li>
+</ul></td>
+<td class=3D"confluenceTd"><p style=3D"text-align: center;">1</p></td>
+<td class=3D"confluenceTd"><p style=3D"text-align: center;">1</p></td>
+<td class=3D"confluenceTd"><p>Rp200.000</p></td>
+<td class=3D"confluenceTd"><p>Rp200.000</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">
+<ul>
+<li><p>Training user</p></li>
+</ul></td>
+<td class=3D"confluenceTd"><p style=3D"text-align: center;">1</p></td>
+<td class=3D"confluenceTd"><p style=3D"text-align: center;">2</p></td>
+<td class=3D"confluenceTd"><p>Rp300.000</p></td>
+<td class=3D"confluenceTd"><p>Rp150.000</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">
+<ul>
+<li><p>Melakukan lisensi program</p></li>
+</ul></td>
+<td class=3D"confluenceTd"><p style=3D"text-align: center;">1</p></td>
+<td class=3D"confluenceTd"><p style=3D"text-align: center;">1</p></td>
+<td class=3D"confluenceTd"><p>Rp500.000</p></td>
+<td class=3D"confluenceTd"><p>Rp500.000</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">
+<ul>
+<li><p>Monitoring &amp; Controlling (Evaluasi)</p></li>
+</ul></td>
+<td class=3D"confluenceTd"><p style=3D"text-align: center;">3</p></td>
+<td class=3D"confluenceTd"><p style=3D"text-align: center;">1</p></td>
+<td class=3D"confluenceTd"><p>Rp1.500.000</p></td>
+<td class=3D"confluenceTd"><p>Rp500.000</p></td>
+</tr>
+<tr>
+<td colspan=3D"5" class=3D"confluenceTd"><p><strong>Maintenance :</strong><=
+/p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">
+<ul>
+<li><p>Pemeliharaan dan Perbaikan Sistem</p></li>
+</ul></td>
+<td class=3D"confluenceTd"><p style=3D"text-align: center;">10</p></td>
+<td class=3D"confluenceTd"><p style=3D"text-align: center;">3</p></td>
+<td class=3D"confluenceTd"><p>Rp3.000.000</p></td>
+<td class=3D"confluenceTd"><p>Rp100.000</p></td>
+</tr>
+<tr>
+<td colspan=3D"4" class=3D"confluenceTd"><p><strong>Dokumentasi :</strong><=
+/p></td>
+<td class=3D"confluenceTd"><p></p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">
+<ul>
+<li><p>Dokumentasi Proyek</p></li>
+</ul></td>
+<td class=3D"confluenceTd"><p style=3D"text-align: center;">65</p></td>
+<td class=3D"confluenceTd"><p style=3D"text-align: center;">1</p></td>
+<td class=3D"confluenceTd"><p>Rp6.500.000</p></td>
+<td class=3D"confluenceTd"><p>Rp100.000</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">
+<ul>
+<li><p>Administrasi Proyek</p></li>
+</ul></td>
+<td class=3D"confluenceTd"><p style=3D"text-align: center;">65</p></td>
+<td class=3D"confluenceTd"><p style=3D"text-align: center;">1</p></td>
+<td class=3D"confluenceTd"><p>Rp6.500.000</p></td>
+<td class=3D"confluenceTd"><p>Rp100.000</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<p><strong>Perhitungan Cocomo I</strong></p>
+<p><strong>Rumus&nbsp;:</strong></p>
+<p>E=3Da(KLoc)b</p>
+<p>D=3Dc(E)b</p>
+<p>P=3DED</p>
+<p>Baris Code=C3=97Harga Perbaris+Jumlah Karyawan =C3=97Gaji Perbulan =C3=
+=97Lama Pengerjaan+Untung %</p>
+<p></p>
+<p><strong>Organik</strong></p>
+<p>E=3D2.4(5)1.05 =3D13 mm</p>
+<p>D=3D2.5(13)0,38=3D6,62&nbsp; =E2=89=88 7 Bulan</p>
+<p>P=3D136.62 =3D1,96&nbsp; =E2=89=88 2 Orang</p>
+<p>50002000+2 5.000.000 =C3=977+15 %=3D81.500.000</p>
+<p></p>
+<p><strong>Semi Detached</strong></p>
+<p>E=3D3(5)1.12 =3D18.2 mm</p>
+<p>D=3D2.5(18,2)0.35=3D6.9 =E2=89=88 7 Bulan</p>
+<p>P=3D18,26.9 =3D2.63 =E2=89=88 3 Orang</p>
+<p>5000 =C3=97 2000+3 =C3=975.000.000 =C3=977+15 %=3D116.500.000</p>
+<p></p>
+<p><strong>Embedded</strong></p>
+<p>E=3D3.6(5)1.2 =3D24.83 mm</p>
+<p>D=3D2.5(24.83)0,32=3D6.98 =E2=89=88 7 Bulan</p>
+<p>P=3D24.836.98 =3D3.55 =E2=89=88 4 Orang</p>
+<p>5000 =C3=97 2000+4 =C3=975.000.000 =C3=977+15 %=3D151.500.000</p>
+<p></p>
+    </div>
+</body>
+</html>
+------=_Part_84_453879961.1686060108793--

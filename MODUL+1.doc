@@ -1,0 +1,729 @@
+Date: Tue, 6 Jun 2023 14:01:37 +0000 (UTC)
+Message-ID: <1651433898.55.1686060097270@0a7aa2c50cca>
+Subject: Exported From Confluence
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_54_181603405.1686060097270"
+
+------=_Part_54_181603405.1686060097270
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/exported.html
+
+<html xmlns:o=3D'urn:schemas-microsoft-com:office:office'
+      xmlns:w=3D'urn:schemas-microsoft-com:office:word'
+      xmlns:v=3D'urn:schemas-microsoft-com:vml'
+      xmlns=3D'urn:w3-org-ns:HTML'>
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+    <title>MODUL 1</title>
+    <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:TargetScreenSize>1024x640</o:TargetScreenSize>
+            <o:PixelsPerInch>72</o:PixelsPerInch>
+            <o:AllowPNG/>
+        </o:OfficeDocumentSettings>
+        <w:WordDocument>
+            <w:View>Print</w:View>
+            <w:Zoom>90</w:Zoom>
+            <w:DoNotOptimizeForBrowser/>
+        </w:WordDocument>
+    </xml>
+    <![endif]-->
+    <style>
+                <!--
+        @page Section1 {
+            size: 8.5in 11.0in;
+            margin: 1.0in;
+            mso-header-margin: .5in;
+            mso-footer-margin: .5in;
+            mso-paper-source: 0;
+        }
+
+        table {
+            border: solid 1px;
+            border-collapse: collapse;
+        }
+
+        table td, table th {
+            border: solid 1px;
+            padding: 5px;
+        }
+
+        td {
+            page-break-inside: avoid;
+        }
+
+        tr {
+            page-break-after: avoid;
+        }
+
+        div.Section1 {
+            page: Section1;
+        }
+
+        /* Confluence print stylesheet. Common to all themes for print medi=
+a */
+/* Full of !important until we improve batching for print CSS */
+
+@media print {
+    #main {
+        padding-bottom: 1em !important; /* The default padding of 6em is to=
+o much for printouts */
+    }
+
+    body {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        font-size: 10pt;
+        line-height: 1.2;
+    }
+
+    body, #full-height-container, #main, #page, #content, .has-personal-sid=
+ebar #content {
+        background: var(--ds-surface, #fff) !important;
+        color: var(--ds-text, #000) !important;
+        border: 0 !important;
+        width: 100% !important;
+        height: auto !important;
+        min-height: auto !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        display: block !important;
+    }
+
+    a, a:link, a:visited, a:focus, a:hover, a:active {
+        color: var(--ds-text, #000);
+    }
+
+    #content h1,
+    #content h2,
+    #content h3,
+    #content h4,
+    #content h5,
+    #content h6 {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        page-break-after: avoid;
+    }
+
+    pre {
+        font-family: Monaco, "Courier New", monospace;
+    }
+
+    #header,
+    .aui-header-inner,
+    #navigation,
+    #sidebar,
+    .sidebar,
+    #personal-info-sidebar,
+    .ia-fixed-sidebar,
+    .page-actions,
+    .navmenu,
+    .ajs-menu-bar,
+    .noprint,
+    .inline-control-link,
+    .inline-control-link a,
+    a.show-labels-editor,
+    .global-comment-actions,
+    .comment-actions,
+    .quick-comment-container,
+    #addcomment {
+        display: none !important;
+    }
+
+    /* CONF-28544 cannot print multiple pages in IE */
+    #splitter-content {
+        position: relative !important;
+    }
+
+    .comment .date::before {
+        content: none !important; /* remove middot for print view */
+    }
+
+    h1.pagetitle img {
+        height: auto;
+        width: auto;
+    }
+
+    .print-only {
+        display: block;
+    }
+
+    #footer {
+        position: relative !important; /* CONF-17506 Place the footer at en=
+d of the content */
+        margin: 0;
+        padding: 0;
+        background: none;
+        clear: both;
+    }
+
+    #poweredby {
+        border-top: none;
+        background: none;
+    }
+
+    #poweredby li.print-only {
+        display: list-item;
+        font-style: italic;
+    }
+
+    #poweredby li.noprint {
+        display: none;
+    }
+
+    /* no width controls in print */
+    .wiki-content .table-wrap,
+    .wiki-content p,
+    .panel .codeContent,
+    .panel .codeContent pre,
+    .image-wrap {
+        overflow: visible !important;
+    }
+
+    /* TODO - should this work? */
+    #children-section,
+    #comments-section .comment,
+    #comments-section .comment .comment-body,
+    #comments-section .comment .comment-content,
+    #comments-section .comment p {
+        page-break-inside: avoid;
+    }
+
+    #page-children a {
+        text-decoration: none;
+    }
+
+    /**
+     hide twixies
+
+     the specificity here is a hack because print styles
+     are getting loaded before the base styles. */
+    #comments-section.pageSection .section-header,
+    #comments-section.pageSection .section-title,
+    #children-section.pageSection .section-header,
+    #children-section.pageSection .section-title,
+    .children-show-hide {
+        padding-left: 0;
+        margin-left: 0;
+    }
+
+    .children-show-hide.icon {
+        display: none;
+    }
+
+    /* personal sidebar */
+    .has-personal-sidebar #content {
+        margin-right: 0px;
+    }
+
+    .has-personal-sidebar #content .pageSection {
+        margin-right: 0px;
+    }
+
+    .no-print, .no-print * {
+        display: none !important;
+    }
+}
+-->
+    </style>
+</head>
+<body>
+    <h1>MODUL 1</h1>
+    <div class=3D"Section1">
+        <h2 id=3D"MODUL1-AGILE">AGILE</h2>
+<p>Agile model merupakan sebuah metode dalam pengembangan perangkat lunak (=
+<em>software</em>) yang didasarkan pada proses pengerjaan berulang yang ter=
+diri dari aturan dan solusi yang sudah disepakati. Metode ini juga dilakuka=
+n dengan sistem kolaborasi antar tim secara terstruktur dan terorganisir. M=
+etode agile sangat cocok digunakan untuk proyek jangka pendek dan mudah ber=
+adaptasi apabila terjadi perubahan dalam suatu proyek. Dalam Agile Developm=
+ent, nilai terpentingnya terdapat pada tim yang bisa memutuskan suatu hal d=
+engan cepat dan tepat.</p><span class=3D"confluence-embedded-file-wrapper i=
+mage-center-wrapper confluence-embedded-manual-size"><img class=3D"confluen=
+ce-embedded-image image-center" width=3D"453" loading=3D"lazy" src=3D"66152=
+47033cb18530c8d9aaf83c20c3d" data-image-src=3D"https://hokgiealan.atlassian=
+.net/wiki/download/attachments/7176200/download.png?version=3D1&amp;modific=
+ationDate=3D1686056205933&amp;cacheVersion=3D1&amp;api=3Dv2" data-height=3D=
+"167" data-width=3D"302" data-unresolved-comment-count=3D"0" data-linked-re=
+source-id=3D"7208997" data-linked-resource-version=3D"1" data-linked-resour=
+ce-type=3D"attachment" data-linked-resource-default-alias=3D"download.png" =
+data-base-url=3D"https://hokgiealan.atlassian.net/wiki" data-linked-resourc=
+e-content-type=3D"image/png" data-linked-resource-container-id=3D"7176200" =
+data-linked-resource-container-version=3D"5" data-media-id=3D"2c21fc36-d9c5=
+-4770-9bc9-82e0acdb73ed" data-media-type=3D"file" height=3D"250"></span>
+<div class=3D"table-wrap">
+<table data-layout=3D"default" data-local-id=3D"899f47c4-15e8-46a3-908a-b13=
+5b4788690" class=3D"confluenceTable">
+<colgroup>
+<col style=3D"width: 185.0px;">
+<col style=3D"width: 495.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"confluenceTh"><p style=3D"text-align: center;"></p><p style=3D=
+"text-align: center;"></p><p style=3D"text-align: center;"><strong>Kelebiha=
+n</strong></p></th>
+<td class=3D"confluenceTd">
+<ol start=3D"1">
+<li><p>Proses pengembangan perangkat lunak membutuhkan waktu yang relatif c=
+epat dan tidak membutuhkan <em>resources </em>yang besar</p></li>
+<li><p>Perubahan dapat ditangani dengan cepat sesuai dengan kebutuhan <em>c=
+lient. </em>(Flexibel)</p></li>
+<li><p>Client dapat memberikan <em>feedback </em>kepada tim pengembang dala=
+m proses pembuatan program.</p></li>
+</ol></td>
+</tr>
+<tr>
+<th class=3D"confluenceTh"><p style=3D"text-align: center;"></p><p style=3D=
+"text-align: center;"></p><p style=3D"text-align: center;"><strong>Kekurang=
+an</strong></p></th>
+<td class=3D"confluenceTd">
+<ol start=3D"1">
+<li><p>Agile tidak cocok apabila dikerjakan oleh tim yang tidak memiliki ko=
+mitmen untuk menyelesaikan proyek bersama - sama.</p></li>
+<li><p>Metode Agile ini kurang tepat apabila dikerjakan dengan jumlah skala=
+ tim yang besar (&gt;20 orang)</p></li>
+<li><p>Tim pengembang harus selalu bersiap karena perubahan dapat terjadi s=
+ewaktu - waktu.</p></li>
+</ol></td>
+</tr>
+</tbody>
+</table>
+</div>
+<p></p>
+<h3 id=3D"MODUL1-Kesimpulan"><strong>Kesimpulan</strong></h3>
+<p>Agile adalah suatu metode pengembangan perangkat lunak yang lebih didasa=
+rkan pada suatu proses pengerjaan yang dilakukan secara berulang-ulang, yan=
+g mana terdapat aturan dan juga solusi yang sudah disepakati dan juga dilak=
+ukan dengan kolaborasi antar tiap tim secara lebih terorganisir dan juga le=
+bih terstruktur.&nbsp;</p>
+<p>Manfaat dari menggunakan Agile ini sendiri bisa dirasakan oleh setiap, p=
+ihak baik dari dalam maupun dari sisi pengguna. Kelebihan dari sisi Agile a=
+dalah dalam hal proses pengerjaan perangkat lunak yang memerlukan waktu leb=
+ih sedikit. Namun kekurangan akhir adalah pada perubahan yang bisa dilakuka=
+n secara kapanpun sesuai dengan kebutuhan pengguna.</p>
+<p></p>
+<p><strong>Nama Perusahaan&nbsp; : PT.</strong> <strong>Growth Financial Gr=
+oup</strong></p>
+<p><strong>Nama Aplikasi : EasyBills</strong></p>
+<p><strong>Nama Fitur : EasySplit</strong></p>
+<p></p>
+<p><strong>Business Case :&nbsp;</strong></p>
+<p><strong>1. Pernyataan Masalah</strong></p>
+<p>Pada lingkup pertemanan tidak jarang terjadi kasus seperti lupa membayar=
+ uang seperti teman yang memberi pinjaman uang untuk membayar sesuatu (mena=
+langi). Pada waktu tertentu ketika seseorang pergi berwisata bersama teman =
+- temannya tidak dipungkiri bahwa ada salah satu orang atau teman yang past=
+inya menalangi teman - temannya dikarenakan kondisi tertentu yang tidak dii=
+nginkan contohnya seperti keadaan saat membeli makan bersama pada kondisi t=
+idak ada uang kembalian untuk perorangan dan diharuskan untuk 1 teman yang =
+membayar tagihan makan tersebut sehingga ini dirasa agak memberatkan teman =
+tersebut.</p>
+<p>Kejadian yang merugikan salah satu pihak teman pada tiap pertemanan sepe=
+rti itu sangat disayangkan pada saat ini. Oleh karena itu PT. Growth Financ=
+ial Group mencetuskan sebuah solusi dengan membangun sebuah fitur pembayara=
+n secara terpisah (<em>EasySplit</em>) di dalam aplikasi <em>EasyBills</em>=
+ yang bertujuan untuk mempermudah dalam menangani kasus pembayaran tersebut=
+.</p>
+<p></p>
+<p><strong>2. Analisa Situasi Keadaan</strong></p>
+<p>Dengan munculnya permasalahan di atas, fitur pembayaran secara terpisah =
+(<em>EasySplit</em>) di dalam aplikasi <em>EasyBills</em> yang akan dikemba=
+ngkan dalam project ini dapat mempermudah sistem pembayaran user di dalam s=
+ebuah kelompok.</p>
+<p></p>
+<p><strong>3. Kebutuhan Bisnis&nbsp;</strong></p>
+<ul>
+<li><p>Aplikasi akan menampilkan dan melakukan scan barcode.</p></li>
+<li><p>Aplikasi akan menampilkan riwayat pembayaran</p></li>
+<li><p>Aplikasi akan menambahkan sebuah list tagihan antar user&nbsp;</p></=
+li>
+</ul>
+<p></p>
+<p><strong>4. Solusi Masalah</strong></p>
+<p>Memberikan kemudahan bagi pengguna terkait pembayaran secara terpisah de=
+ngan menggunakan fitur <em>EasySplit</em> yang dimana pembayaran akan dilak=
+ukan dengan menggunakan scan barcode pada aplikasi <em>EasyBills</em>.</p>
+<p></p>
+<p><strong>5. Konsistensi dengan Misi Organisasi&nbsp;</strong></p>
+<ul>
+<li><p>Mengurangi terjadinya hutang antar user&nbsp;</p></li>
+<li><p>Aplikasi dapat menampilkan scan barcode ketika melakukan pembayaran =
+pada fitur EasySplit dengan menggunakan <em>EasyPay </em>(Fitur pembayaran =
+dalam aplikasi <em>EasyBills</em>)</p></li>
+</ul>
+<p></p>
+<p><strong>6. Manfaat yang diharapkan&nbsp;</strong></p>
+<p>Metode pembayaran <em>EasySplit</em> ini digunakan agar setiap user tida=
+k merasa dirugikan, seperti :&nbsp;</p>
+<ul>
+<li><p>Mudah melakukan penggantian uang</p></li>
+<li><p>Meminimalisir penggunaan uang tunai</p></li>
+<li><p>Memudahkan pengguna mencatat transaksi atau pengeluaran</p></li>
+<li><p>Mempercepat proses transaksi</p></li>
+</ul>
+<p></p>
+<p><strong>7. Estimasi Anggaran dan Analisis Keuangan</strong></p>
+<div class=3D"table-wrap">
+<table data-layout=3D"default" data-local-id=3D"41344da7-197e-4720-9e06-cb1=
+793db91b5" class=3D"confluenceTable">
+<colgroup>
+<col style=3D"width: 48.0px;">
+<col style=3D"width: 149.0px;">
+<col style=3D"width: 139.0px;">
+<col style=3D"width: 112.0px;">
+<col style=3D"width: 112.0px;">
+<col style=3D"width: 112.0px;">
+</colgroup>
+<tbody>
+<tr>
+<td class=3D"confluenceTd"><p><strong>No</strong></p></td>
+<td class=3D"confluenceTd"><p><strong>Jenis Biaya</strong></p></td>
+<td class=3D"confluenceTd"><p><strong>Biaya Pembangunan</strong></p></td>
+<td class=3D"confluenceTd"><p><strong>Waktu</strong></p></td>
+<td class=3D"confluenceTd"><p><strong>Keterangan</strong></p></td>
+<td class=3D"confluenceTd"><p><strong>Total</strong></p></td>
+</tr>
+<tr>
+<td rowspan=3D"7" class=3D"confluenceTd">
+<ol start=3D"1">
+<li><p></p></li>
+</ol></td>
+<td colspan=3D"5" class=3D"confluenceTd"><p><strong>Segi Sistem</strong></p=
+></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>Manager Proyek</p></td>
+<td class=3D"confluenceTd"><p>Rp.&nbsp;</p></td>
+<td class=3D"confluenceTd"><p>4 Bulan</p></td>
+<td class=3D"confluenceTd"><p></p></td>
+<td class=3D"confluenceTd"><p></p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>Initiator</p></td>
+<td class=3D"confluenceTd"><p>RP.&nbsp;</p></td>
+<td class=3D"confluenceTd"><p>4 Bulan</p></td>
+<td class=3D"confluenceTd"><p></p></td>
+<td class=3D"confluenceTd"><p></p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>Planner</p></td>
+<td class=3D"confluenceTd"><p>Rp.</p></td>
+<td class=3D"confluenceTd"><p>4 Bulan</p></td>
+<td class=3D"confluenceTd"><p></p></td>
+<td class=3D"confluenceTd"><p></p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>Executor</p></td>
+<td class=3D"confluenceTd"><p>Rp.&nbsp;</p></td>
+<td class=3D"confluenceTd"><p>4 Bulan</p></td>
+<td class=3D"confluenceTd"><p></p></td>
+<td class=3D"confluenceTd"><p></p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>Monitoring</p></td>
+<td class=3D"confluenceTd"><p>RP.&nbsp;</p></td>
+<td class=3D"confluenceTd"><p>4 Bulan</p></td>
+<td class=3D"confluenceTd"><p></p></td>
+<td class=3D"confluenceTd"><p></p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>Closing</p></td>
+<td class=3D"confluenceTd"><p>Rp.&nbsp;</p></td>
+<td class=3D"confluenceTd"><p>4 Bulan</p></td>
+<td class=3D"confluenceTd"><p></p></td>
+<td class=3D"confluenceTd"><p></p></td>
+</tr>
+<tr>
+<td colspan=3D"5" class=3D"confluenceTd"><p>Total</p></td>
+<td class=3D"confluenceTd"><p>Rp.&nbsp;</p></td>
+</tr>
+<tr>
+<td colspan=3D"6" class=3D"confluenceTd"><p></p></td>
+</tr>
+<tr>
+<td rowspan=3D"4" class=3D"confluenceTd"><p>2</p></td>
+<td colspan=3D"5" class=3D"confluenceTd"><p><strong>Segi Infrastruktur</str=
+ong></p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>Komputer Server</p></td>
+<td class=3D"confluenceTd"><p>Rp.&nbsp;</p></td>
+<td class=3D"confluenceTd"><p></p></td>
+<td class=3D"confluenceTd"><p>1 Unit</p></td>
+<td class=3D"confluenceTd"><p></p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>Komputer Workstation</p></td>
+<td class=3D"confluenceTd"><p>Rp.&nbsp;</p></td>
+<td class=3D"confluenceTd"><p></p></td>
+<td class=3D"confluenceTd"><p>3 Unit</p></td>
+<td class=3D"confluenceTd"><p></p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>Pemasangan Jaringan &amp; Alat</p></td>
+<td class=3D"confluenceTd"><p>Rp.&nbsp;</p></td>
+<td class=3D"confluenceTd"><p></p></td>
+<td class=3D"confluenceTd"><p></p></td>
+<td class=3D"confluenceTd"><p></p></td>
+</tr>
+<tr>
+<td colspan=3D"5" class=3D"confluenceTd"><p>Total</p></td>
+<td class=3D"confluenceTd"><p>Rp.&nbsp;</p></td>
+</tr>
+<tr>
+<td colspan=3D"6" class=3D"confluenceTd"><p></p></td>
+</tr>
+<tr>
+<td rowspan=3D"5" class=3D"confluenceTd">
+<ol start=3D"1">
+<li><p></p></li>
+</ol></td>
+<td colspan=3D"5" class=3D"confluenceTd"><p><strong>Segi Maintenance DLL</s=
+trong></p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>Pelatihan Penggunaan Sistem</p></td>
+<td class=3D"confluenceTd"><p>Rp.&nbsp;</p></td>
+<td colspan=3D"3" class=3D"confluenceTd"><p>Memperkenalkan cara penggunaan =
+sistem terhadap native user&nbsp;</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>Konsultasi</p></td>
+<td class=3D"confluenceTd"><p>Rp.&nbsp;</p></td>
+<td colspan=3D"3" class=3D"confluenceTd"><p>Penambahan atau pengurangan sis=
+tem sesuai kebutuhan user</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>Maintenance</p></td>
+<td class=3D"confluenceTd"><p>Rp.&nbsp;</p></td>
+<td colspan=3D"3" class=3D"confluenceTd"><p>Perawatan terhadap sistem dan j=
+aringan</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>Lain - Lain</p></td>
+<td class=3D"confluenceTd"><p>Rp.&nbsp;</p></td>
+<td colspan=3D"3" class=3D"confluenceTd"><p>Digunakan untuk biaya tidak ter=
+duga</p></td>
+</tr>
+<tr>
+<td colspan=3D"3" class=3D"confluenceTd"><p style=3D"text-align: center;"><=
+strong>Total Kebutuhan</strong></p></td>
+<td colspan=3D"3" class=3D"confluenceTd"><p><strong>Rp.&nbsp;</strong></p><=
+/td>
+</tr>
+</tbody>
+</table>
+</div>
+<p></p>
+<p><strong>8. Sumber Pendanaan&nbsp;</strong></p>
+<p>Sumber pendanaan untuk proyek pembuatan fitur <em>EasySplit</em> pada ap=
+likasi <em>EasyBills </em>yang akan dibuat berasal dari PT. Growth Financia=
+l Group.</p>
+<p></p>
+<p></p>
+    </div>
+</body>
+</html>
+------=_Part_54_181603405.1686060097270
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: base64
+Content-Location: file:///C:/6615247033cb18530c8d9aaf83c20c3d
+
+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
+------=_Part_54_181603405.1686060097270--
